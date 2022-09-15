@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "babel-plugin-styled-components": "^2.0.2",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-select": "^5.4.0",
+    "react-select-search": "^3.0.9",
+    "react-use-window-scroll": "^1.0.14",
+    "styled-components": "^5.3.3"
+  }
+}
