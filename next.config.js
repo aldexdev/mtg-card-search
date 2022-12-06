@@ -1,8 +1,9 @@
 import("next").NextConfig;
 
 const nextConfig = {
+  reactStrictMode: true,
   images: {
-    domains: ["c1.scryfall.com"],
+    domains: ["cards.scryfall.io"],
   },
 };
 
