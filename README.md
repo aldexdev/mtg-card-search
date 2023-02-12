@@ -8,7 +8,7 @@
 npm install 
 ```
 
-    to get all the dependencies (or yarn if needed)
+to get all the dependencies (or yarn if needed)
 
 2. Start the local version by typing 
 
